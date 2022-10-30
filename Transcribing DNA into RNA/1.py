@@ -1,4 +1,4 @@
-f = open("rosalind_rna.txt")
+f = open("ROSALIND_Problems/Transcribing DNA into RNA/rosalind_rna.txt")
 
 DNA = f.read()
 RNA = []
