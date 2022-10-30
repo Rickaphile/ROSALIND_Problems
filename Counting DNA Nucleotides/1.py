@@ -1,4 +1,4 @@
-f = open("rosalind_dna.txt")
+f = open("ROSALIND_Problems/Counting DNA Nucleotides/rosalind_dna.txt")
 
 DNA = f.read()
 
