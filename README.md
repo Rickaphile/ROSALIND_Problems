@@ -1,5 +1,5 @@
 # ROSALIND
-![logo](logo.png)
+![logo](logo.png) </br>
 Rosalind is a platform for learning bioinformatics and programming through problem solving.
 
 ## Problems
