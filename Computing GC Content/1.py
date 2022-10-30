@@ -12,7 +12,7 @@ for l in lines:
         l = l.strip()
         seqs[seq] = seqs[seq] + l
 
-# Find max GC, l:labels, s:sequences
+# Find max GC, l:labels, seqs[l]:sequences
 label = ''
 max = float(0)
 for l in seqs:
