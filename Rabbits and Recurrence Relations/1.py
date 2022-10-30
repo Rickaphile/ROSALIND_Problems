@@ -1,4 +1,4 @@
-f = open('ROSALIND/Rabbits and Recurrence Relations/rosalind_fib.txt')
+f = open('ROSALIND_Problems/Rabbits and Recurrence Relations/rosalind_fib.txt')
 
 metrics = f.read()
 n, k = int(metrics.split(' ')[0]), int(metrics.split(' ')[1])
