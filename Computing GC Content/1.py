@@ -1,4 +1,4 @@
-f = open('ROSALIND/Computing GC Content/rosalind_gc.txt')
+f = open('ROSALIND_Problems/Computing GC Content/rosalind_gc.txt')
 
 lines = f.readlines()
 
