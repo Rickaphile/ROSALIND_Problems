@@ -1,4 +1,4 @@
-f = open('ROSALIND/Complementing a Strand of DNA/rosalind_revc.txt')
+f = open('ROSALIND_Problems/Complementing a Strand of DNA/rosalind_revc.txt')
 
 DNA = f.read()
 comp = []
